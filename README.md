@@ -1,5 +1,4 @@
-# Title
-GoldFarm
+# GoldFarm
 
 # Language
 Golang
